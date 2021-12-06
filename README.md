@@ -1,2 +1,3 @@
-# Music_Genre_Classification_and_Recommendation
+# Music Genre Classification and Recommendation using Gtzan Dataset
+
 
