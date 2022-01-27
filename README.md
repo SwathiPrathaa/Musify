@@ -1,3 +1,4 @@
-# Music Genre Classification and Recommendation using Gtzan Dataset
+# Spotify Replica
+
 
 
